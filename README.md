@@ -123,5 +123,5 @@ https://github.com/aayushsamarth17
 # 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://github.com/aayushsamarth17/aayushsamarth17/blob/output/github-snake-dark.svg" />
+<img src="https://github.com/aayushsamarth17/aayushsamarth17/blob/output/github-contribution-grid-snake-dark.svg" />
 </p>
