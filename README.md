@@ -96,16 +96,6 @@ Java Full Stack Developer | MCA Student | Tech Enthusiast
 
 ---
 
-# 🚀 Featured Projects
-
-## 💰 Expense Tracker
-Track expenses and manage budgets.
-
-🔗 Project Link:
-https://github.com/aayushsamarth17
-
----
-
 # 👀 Profile Views
 
 <p align="left">
