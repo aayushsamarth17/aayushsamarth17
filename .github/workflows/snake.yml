@@ -1,24 +1,44 @@
 name: Generate Snake
 
 on:
+  # Automatically runs every 12 hours
   schedule:
     - cron: "0 */12 * * *"
-
+  
+  # Allows you to manually trigger it from the Actions tab (like you did in the screenshot)
   workflow_dispatch:
+  
+  # Run on every push to the main branch
+  push:
+    branches:
+    - main
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    # This block grants write permissions to fix the Git 128 error!
+    permissions:
+      contents: write
 
     steps:
-      - uses: Platane/snk@v3
+      # Step 1: Checks out your repository code
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      # Step 2: Generates the snake animations from your contribution graph
+      - name: Generate GitHub Contribution Grid Snake
+        uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: aayushsamarth17
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - uses: crazy-max/ghaction-github-pages@v3
+      # Step 3: Pushes the generated SVGs to an isolated 'output' branch
+      - name: Push Snake SVGs to Output Branch
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
