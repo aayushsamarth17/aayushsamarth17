@@ -69,7 +69,8 @@ Java Full Stack Developer | MCA Student | Tech Enthusiast
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=aayushsamarth17&show_icons=true&theme=tokyonight" />
 
 # Portfolio
-
+<a href="https://portfolio-seven-beta-dld4491ljv.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white">  
 </a>
 # 🔥 GitHub Streak
 
