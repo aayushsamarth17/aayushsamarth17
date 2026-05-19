@@ -1,16 +1,77 @@
-## Hi there 👋
+# Hi 👋, I'm Aayush Samarth
 
-<!--
-**aayushsamarth17/aayushsamarth17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Java Full Stack Developer | MCA Student | Passionate Problem Solver
 
-Here are some ideas to get you started:
+💻 I love building real-world web applications and improving my development skills every day.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently Learning:
+- Java Full Stack Development
+- Spring Boot
+- React.js
+- MySQL
+- Data Structures & Algorithms
+
+🚀 Goals:
+- Become a professional Software Developer
+- Build impactful real-world projects
+- Get placed in a top IT company
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+- Java
+- JavaScript
+- HTML
+- CSS
+
+### Frontend
+- React.js
+- Bootstrap
+
+### Backend
+- Spring Boot
+- JDBC
+- Servlets
+
+### Database
+- MySQL
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- IntelliJ IDEA
+
+---
+
+## 📌 Featured Projects
+
+### Student Management System
+A full-stack project for managing students, courses, and records.
+
+### Portfolio Website
+Personal portfolio website showcasing projects and skills.
+
+### Todo App
+Task management application using JavaScript and Local Storage.
+
+---
+
+## 📊 GitHub Stats
+
+![Aayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=aayushsamarth17&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aayushsamarth17&layout=compact)
+
+---
+
+## 🌐 Connect With Me
+
+- GitHub: https://github.com/aayushsamarth17
+- LinkedIn: Add your LinkedIn here
+
+---
+
+⭐ “Consistency is more important than perfection.”
