@@ -1,4 +1,4 @@
-<h1 align="center">Hii 👋, I'm Aayush Samarth</h1>
+<h1 align="center">Hi 👋, I'm Aayush Samarth</h1>
 
 <h3 align="center">
 Java Full Stack Developer | MCA Student | Tech Enthusiast
