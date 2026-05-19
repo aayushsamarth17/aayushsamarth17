@@ -85,14 +85,6 @@ Java Full Stack Developer | MCA Student | Tech Enthusiast
 
 ---
 
-# 📌 Featured Projects
-
-## 🚀 Student Management System
-Full-stack project using Java,MySQL.
-
-## 🌐 Portfolio Website
-Responsive personal portfolio website.
-
 ## 💰 Expense Tracker
 Track expenses and manage budgets.
 
