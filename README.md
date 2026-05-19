@@ -66,9 +66,7 @@ Java Full Stack Developer | MCA Student | Tech Enthusiast
 
 # 📊 GitHub Stats
 
-<p>  
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?        username=aayushsamarth17&show_icons=true&theme=tokyonight" />
-</p>
 
 ---
 
