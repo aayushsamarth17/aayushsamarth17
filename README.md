@@ -28,8 +28,12 @@ Java Full Stack Developer | MCA Student | Tech Enthusiast
 <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/in/aayush-samarth-7b3434295?utm_source=share_via&utm_content=profile&utm_medium=member_ios/" target="_blank">
+<a href="https://www.linkedin.com/in/aayush-samarth-7b3434295" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://portfolio-seven-beta-dld4491ljv.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" />
 </a>
 
 </p>
@@ -38,26 +42,22 @@ Java Full Stack Developer | MCA Student | Tech Enthusiast
 
 # 💻 Tech Stack
 
-### Languages
-
+## 🚀 Languages
 <p>
 <img src="https://skillicons.dev/icons?i=java,js,html,css" />
 </p>
 
-### Frontend
-
+## 🎨 Frontend
 <p>
 <img src="https://skillicons.dev/icons?i=react,bootstrap" />
 </p>
 
-### Database
-
+## 🛢 Database
 <p>
 <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-### Tools
-
+## 🛠 Tools
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
@@ -66,13 +66,11 @@ Java Full Stack Developer | MCA Student | Tech Enthusiast
 
 # 📊 GitHub Stats
 
+<p align="center">
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=aayushsamarth17&show_icons=true&theme=tokyonight" />
+</p>
 
-# Portfolio
-<a href="https://portfolio-seven-beta-dld4491ljv.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white">  
-</a>
-
+---
 
 # 🔥 GitHub Streak
 
@@ -90,16 +88,21 @@ Java Full Stack Developer | MCA Student | Tech Enthusiast
 
 ---
 
-## 💰 Expense Tracker
-Track expenses and manage budgets.
-
----
-
 # 📈 Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=aayushsamarth17&theme=tokyo-night" />
 </p>
+
+---
+
+# 🚀 Featured Projects
+
+## 💰 Expense Tracker
+Track expenses and manage budgets.
+
+🔗 Project Link:
+https://github.com/aayushsamarth17
 
 ---
 
@@ -114,3 +117,11 @@ Track expenses and manage budgets.
 # ⚡ Fun Fact
 
 💡 “Consistency beats talent when talent doesn’t work consistently.”
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://github.com/aayushsamarth17/aayushsamarth17/blob/output/github-snake-dark.svg" />
+</p>
