@@ -6,7 +6,6 @@
 
 🌱 Currently Learning:
 - Java Full Stack Development
-- Spring Boot
 - React.js
 - MySQL
 - Data Structures & Algorithms
@@ -30,11 +29,6 @@
 - React.js
 - Bootstrap
 
-### Backend
-- Spring Boot
-- JDBC
-- Servlets
-
 ### Database
 - MySQL
 
@@ -42,7 +36,6 @@
 - Git
 - GitHub
 - VS Code
-- IntelliJ IDEA
 
 ---
 
@@ -54,23 +47,18 @@ A full-stack project for managing students, courses, and records.
 ### Portfolio Website
 Personal portfolio website showcasing projects and skills.
 
-### Todo App
-Task management application using JavaScript and Local Storage.
-
 ---
 
 ## 📊 GitHub Stats
 
 ![Aayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=aayushsamarth17&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aayushsamarth17&layout=compact)
-
 ---
 
 ## 🌐 Connect With Me
 
 - GitHub: https://github.com/aayushsamarth17
-- LinkedIn: Add your LinkedIn here
+- LinkedIn: https://www.linkedin.com/in/aayush-samarth-7b3434295/
 
 ---
 
