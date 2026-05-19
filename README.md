@@ -22,8 +22,6 @@ Java Full Stack Developer | MCA Student | Tech Enthusiast
 
 # 🌐 Connect With Me
 
-# 🌐 Connect With Me
-
 <p align="left">
 
 <a href="https://github.com/aayushsamarth17" target="_blank">
