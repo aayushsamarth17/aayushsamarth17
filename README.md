@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aayush Samarth</h1>
 
 <h3 align="center">
-Java Full Stack Developer | MCA Student | Tech Enthusiast
+Full Stack Developer | MCA Student | Tech Enthusiast
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Building+Real+World+Projects;Future+Software+Developer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Building+Real+World+Projects;Future+Software+Developer" />
 </p>
 
 ---
