@@ -109,3 +109,9 @@ Track expenses and manage budgets.
 # ⚡ Fun Fact
 
 💡 “Consistency beats talent when talent doesn’t work consistently.”
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/aayushsamarth17/aayushsamarth17/output/github-contribution-grid-snake-dark.svg" />
+</p>
