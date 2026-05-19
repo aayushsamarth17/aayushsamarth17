@@ -22,12 +22,18 @@ Java Full Stack Developer | MCA Student | Tech Enthusiast
 
 # 🌐 Connect With Me
 
+# 🌐 Connect With Me
+
 <p align="left">
-<a href="https://github.com/aayushsamarth17">
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
+
+<a href="https://github.com/aayushsamarth17" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<!-- Add LinkedIn Later -->
+<a href="https://www.linkedin.com/in/aayush-samarth-7b3434295?utm_source=share_via&utm_content=profile&utm_medium=member_ios/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
 </p>
 
 ---
